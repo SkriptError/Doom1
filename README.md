@@ -1,9 +1,5 @@
-# Minecraft Classic Reversed
-This is a project meant to document the functions and code of classic.minecraft.net.
-
-# Usage
-Clone the repo and run start-server.bat, or run http-server on the working directory.
-Then, connect to the server using localhost:8080 in your preferred browser.
+# Doom 1 Online SRC Copyied from emupedia.net
+This is a project meant to document the functions and code of Doom 1
 
 # Takedown
 
